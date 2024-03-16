@@ -16,4 +16,4 @@ TensorFlow/Keras (or PyTorch)
 NumPy
 Optional:
 
-A webcam or other image capture device
+A webcam or other image capture device.
