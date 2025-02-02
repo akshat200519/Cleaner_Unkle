@@ -66,8 +66,6 @@ A pre-trained model is provided in the repository. However, if you wish to train
 2. Open a browser and navigate to `http://127.0.0.1:5000/`.
 3. Upload an image to get predictions.
 
-## Contribution
-Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## License
 This project is licensed under the MIT License.
